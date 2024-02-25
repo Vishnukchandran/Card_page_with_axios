@@ -9,7 +9,7 @@ This README provides documentation for a simple Card page application built with
 If you're working with a Git repository, clone it to your local machine using Git commands or download the source code as a ZIP file and extract it to a local directory. Command to clone the repository on the command prompt.
 
 ```
-git clone
+git clone https://github.com/Vishnukchandran/Card_page_with_axios.git
 ```
 
 Navigate to the downloaded folder and open the terminal or command prompt on the same folder path, type
@@ -47,7 +47,7 @@ Once the application is running, open your web browser and visit http://localhos
 ### 5.Technologies Used
 
 - React
-- Bootstrap (add it to project)
+- Bootstrap
 - Axios
 
 ### 6.Contributions
@@ -56,7 +56,7 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 ### 7.Live page
 
-You can access the live page from [here]()
+You can access the live page from [here](https://vkc-axios-crud.netlify.app/)
 
 ### 8.Credits
 
